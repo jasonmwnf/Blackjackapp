@@ -17,4 +17,6 @@ Built a fun and engaging blackjack game from the ground up. It demonstrates basi
     Session and data stores
     Deploying web applications
     Ajax, JavaScript/JQuerey
+    
+    Link to live app: https://dry-wildwood-6812.herokuapp.com/
 
